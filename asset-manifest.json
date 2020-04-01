@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/hephy/static/css/main.85e75f7f.chunk.css",
+    "main.js": "/hephy/static/js/main.4ffe4520.chunk.js",
+    "main.js.map": "/hephy/static/js/main.4ffe4520.chunk.js.map",
+    "runtime-main.js": "/hephy/static/js/runtime-main.3721a5d1.js",
+    "runtime-main.js.map": "/hephy/static/js/runtime-main.3721a5d1.js.map",
+    "static/css/2.de424728.chunk.css": "/hephy/static/css/2.de424728.chunk.css",
+    "static/js/2.b3b651f5.chunk.js": "/hephy/static/js/2.b3b651f5.chunk.js",
+    "static/js/2.b3b651f5.chunk.js.map": "/hephy/static/js/2.b3b651f5.chunk.js.map",
+    "index.html": "/hephy/index.html",
+    "precache-manifest.fe67f4d614d858f37f09ef887e8bf67b.js": "/hephy/precache-manifest.fe67f4d614d858f37f09ef887e8bf67b.js",
+    "service-worker.js": "/hephy/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/hephy/static/css/2.de424728.chunk.css.map",
+    "static/css/main.85e75f7f.chunk.css.map": "/hephy/static/css/main.85e75f7f.chunk.css.map",
+    "static/js/2.b3b651f5.chunk.js.LICENSE.txt": "/hephy/static/js/2.b3b651f5.chunk.js.LICENSE.txt",
+    "static/media/G1.png": "/hephy/static/media/G1.93e9c90b.png",
+    "static/media/G1s.jpg": "/hephy/static/media/G1s.30b3550b.jpg",
+    "static/media/G2.png": "/hephy/static/media/G2.0b399d57.png",
+    "static/media/G2s.png": "/hephy/static/media/G2s.60aa7458.png",
+    "static/media/logo.png": "/hephy/static/media/logo.6604bdff.png",
+    "static/media/App.css": "/hephy/static/media/site-bg.9d7a25eb.jpg",
+    "static/media/slide_1.jpg": "/hephy/static/media/slide_1.9c8e1ab8.jpg",
+    "static/media/slide_2.jpg": "/hephy/static/media/slide_2.8c3cd0ab.jpg",
+    "static/media/slide_3.jpg": "/hephy/static/media/slide_3.30b77f1c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3721a5d1.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.b3b651f5.chunk.js",
+    "static/css/main.85e75f7f.chunk.css",
+    "static/js/main.4ffe4520.chunk.js"
+  ]
+}
